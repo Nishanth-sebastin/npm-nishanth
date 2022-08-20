@@ -1,0 +1,23 @@
+{
+  "name": "nishanth",
+  "version": "1.0.0",
+  "description": "nothing is there to say about myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishanth-sebastin/npm-nishanth.git"
+  },
+  "keywords": [
+    "Nishanth",
+    "Nishanth-Sebastin"
+  ],
+  "author": "Nishanth-Sebastin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nishanth-sebastin/npm-nishanth/issues"
+  },
+  "homepage": "https://github.com/Nishanth-sebastin/npm-nishanth#readme"
+}
