@@ -9,6 +9,6 @@ npm i nishanth
 Use the method to know who I am .
 
 ```bash
-const balaji=require('nishanth')
+const nishanth=require('nishanth')
 console.log(nishanth.nishanth());
 ```
